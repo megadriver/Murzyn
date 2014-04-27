@@ -1,8 +1,11 @@
 #pragma once
+#include "Nigger.h"
 class Pool
 {
 public:
-	Pool();
+	Pool(int);
 	virtual ~Pool();
+private:
+	Nigger *group;
 };
 

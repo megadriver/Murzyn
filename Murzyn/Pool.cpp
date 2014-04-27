@@ -1,8 +1,9 @@
 #include "Pool.h"
 
 
-Pool::Pool()
+Pool::Pool(int i)
 {
+	group = new Nigger[i];
 }
 
 
@@ -11,11 +12,3 @@ Pool::~Pool()
 }
 
 
-Pool::Pool()
-{
-}
-
-
-Pool::~Pool()
-{
-}
