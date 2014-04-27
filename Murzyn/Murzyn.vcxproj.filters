@@ -21,9 +21,15 @@
     <ClCompile Include="Nigger.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Pool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Nigger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pool.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
